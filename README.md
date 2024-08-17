@@ -9,6 +9,7 @@ Because of that, though, I don't recommend printing these cases out without modi
 This community and similar ones have been kind of my gateway into DIY culture. I knew about it, but I never really understood how fun it could be until now! If you're still on the fence about building something for yourself, modifying a design, or whatever, this is your sign to give it a shot! The DIY community is ridiculously helpful, and you'll always be in the weeds with other hobby DIYers too. 
 
 # Parts List:
+- Note that you'll still need wires, diodes, resistors, electrical tape, etc. The SlimeVR Docs has those parts listed for cheap on Ali [here](https://docs.slimevr.dev/diy/components-guide.html). This section is for showing what parts/sizes this case was made to fit.
 
 ## Wemos D1 Mini Micro-USB Board
 ![D1 Mini from WinWin](https://github.com/user-attachments/assets/e5eda93f-03d5-4056-897a-81ac47ce0807)
